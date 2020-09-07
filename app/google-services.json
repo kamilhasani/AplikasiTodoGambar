@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418035713522",
+    "firebase_url": "https://apaaja-32dab.firebaseio.com",
+    "project_id": "apaaja-32dab",
+    "storage_bucket": "apaaja-32dab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418035713522:android:2efc3880c1dd8c38bb176b",
+        "android_client_info": {
+          "package_name": "idn.kamil.aplikasitodogambar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418035713522-ft28toimmf4d87ac4picha0oerelb1tt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "idn.kamil.aplikasitodogambar",
+            "certificate_hash": "a8bbecc4455d9237781a220d117e51dd600b0350"
+          }
+        },
+        {
+          "client_id": "418035713522-e0nkpjenbr8ar9m8dc3g4begjkcajghj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIpBP3eOGjE_E1UBLqXF39jbamDk_mHus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418035713522-e0nkpjenbr8ar9m8dc3g4begjkcajghj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

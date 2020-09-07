@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aplikasi_Todo_Gambar.iml" filepath="$PROJECT_DIR$/.idea/modules/Aplikasi_Todo_Gambar.iml" group="Aplikasi_Todo_Gambar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Aplikasi Todo Gambar/app" />
+    </modules>
+  </component>
+</project>
